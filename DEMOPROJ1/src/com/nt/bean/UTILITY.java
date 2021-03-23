@@ -17,5 +17,11 @@ public class UTILITY {
 	System.out.println("utility m2 method:1234");
 	
 	}
+
+	public void m4() {
+
+	System.out.println("utility m4444    method:1234");
+	
+	}
 }
 
